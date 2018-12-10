@@ -41,11 +41,6 @@ Temporary Items
 .apdisk
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 .history
 
 
@@ -55,3 +50,5 @@ Temporary Items
 
 images
 *.csv
+temp_auto_push.bat
+temp_interactive_push.bat
